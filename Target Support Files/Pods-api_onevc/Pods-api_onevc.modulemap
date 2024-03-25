@@ -1,0 +1,6 @@
+framework module Pods_api_onevc {
+  umbrella header "Pods-api_onevc-umbrella.h"
+
+  export *
+  module * { export * }
+}
